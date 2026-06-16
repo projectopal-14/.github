@@ -1,5 +1,6 @@
 # Opal 
 desktop-приложение для markdown-заметок с AI-функциями.
+<img width="180" height="125" alt="image" src="https://github.com/user-attachments/assets/ab5632fa-cd8a-4dc3-b020-05090aed32e0" />
 
 ## Стэк
 Frontend:
